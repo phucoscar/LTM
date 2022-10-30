@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e0e5cc5-d0ad-44f7-9a9c-0cfc073f11bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/MemberController$BeKicked.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/MemberController$BeKicked.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/MemberController$ChatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/MemberController$ChatThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/MemberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/VideoController$VideoRecieveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/VideoController$VideoRecieveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/VideoController$VideoSendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/VideoController$VideoSendThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/controller/VideoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/controller/VideoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/model/ClientModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/model/ClientModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/ChatView$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/ChatView$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/ChatView$CloseWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/ChatView$CloseWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/ChatView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/ChatView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/CreateView$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/CreateView$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/CreateView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/CreateView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/JoinCreateView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/JoinCreateView$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/JoinCreateView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/JoinCreateView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/JoinView$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/JoinView$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/JoinView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/JoinView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/MembersView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/MembersView$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/MembersView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/MembersView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/NicknameView$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/NicknameView$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/NicknameView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/NicknameView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/VideoRecieveView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/VideoRecieveView$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/VideoRecieveView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/VideoRecieveView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/VideoSendView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/VideoSendView$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/VideoSendView.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/VideoSendView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/build/classes/view/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Client/build/classes/view/main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GrIMWwH7pIAAaH8DgsE12BrpMZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.main" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.main" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e0e5cc5-d0ad-44f7-9a9c-0cfc073f11bf" name="Changes" comment="" />
+      <created>1667140228394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667140228394</updated>
+      <workItem from="1667140230039" duration="1799000" />
+      <workItem from="1667142147184" duration="1085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
